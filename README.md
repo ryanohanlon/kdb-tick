@@ -1,2 +1,2 @@
 # Introduction
-The purpose of this git repo is to format and document Kx's kdb-tick repo
+The purpose of this git repo is to format and document Kx's kdb-tick [repo](https://github.com/KxSystems/kdb-tick)
