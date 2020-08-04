@@ -3,7 +3,6 @@ The purpose of this git repo is to format and document Kx's kdb-tick [repo](http
 
 ## Installation
 
-#### Test
 Run on command line
 
 ```
